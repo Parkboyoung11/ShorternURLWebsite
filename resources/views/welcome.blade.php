@@ -101,7 +101,7 @@
                 type: 'POST',
                 url: 'http://akii.tk/api.php',
                 data: {
-                    key: '6fd394b2f8f7e2438ca7f0a87a6db994',
+                    key: '{{ env('USER_KEY') }}',
                     link:  originLink
                 },
                 success: function copy(data) {
