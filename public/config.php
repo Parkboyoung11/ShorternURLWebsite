@@ -17,7 +17,7 @@
 	$GLOBAL['HOST'] = "127.0.0.1";
 	$GLOBAL['DB_NAME'] = "aki";
 	$GLOBAL['DB_USER'] = "root";
-	$GLOBAL['DB_PASS'] = "YuukiAki@2412";
+	$GLOBAL['DB_PASS'] = "aki2305";
 
 	$GLOBAL['STT_SUCCESS'] = 200;
 	$GLOBAL['STT_KEY_INVALID'] = 401;

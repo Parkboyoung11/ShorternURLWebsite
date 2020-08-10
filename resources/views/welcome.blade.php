@@ -98,7 +98,7 @@
         function shortenUrl(originLink) {
             $.ajax({
                 type: 'POST',
-                url: 'http://localhost:8000/api.php',
+                url: 'http://akii.tk/api.php',
                 data: {
                     key: '6fd394b2f8f7e2438ca7f0a87a6db994',
                     link:  originLink
