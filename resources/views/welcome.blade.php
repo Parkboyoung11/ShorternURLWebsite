@@ -8,7 +8,7 @@
         <title>Aki Shorten Url</title>
 
         <!-- Fonts -->
-        <link href="{{asset('font/font') }" rel="stylesheet" type="text/css">
+        <link href="{{asset('font/font')}}" rel="stylesheet" type="text/css">
 
         <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
         <link rel="stylesheet" href="{{asset('css/custom.css')}}">
