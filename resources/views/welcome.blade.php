@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <link rel="icon" href="{{ asset('images/icon.png') }}">
         <title>Aki Shorten Url</title>
 
         <!-- Fonts -->
@@ -12,7 +13,7 @@
         <script src="{{ asset('js/jquery-3.2.1.slim.min.js') }}"></script>
         <script src="{{ asset('js/popper.min.js') }}"></script>
         <script src="{{ asset('js/jquery.min.js') }}"></script>
-	<script src="{{ asset('js/jquery.bootstrap-growl.js') }}"></script>
+	    <script src="{{ asset('js/jquery.bootstrap-growl.js') }}"></script>
         <!-- Styles -->
         <style>
             html, body {
